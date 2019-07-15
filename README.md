@@ -1,2 +1,13 @@
 # udacity-data-structures-algorithms-python
-Data structures and algorithms implemented in Python as a part of Udacity's course: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+Data structures and algorithms implemented in Python for Udacity's featured course
+
+Link to course: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+
+Topics covered:
+-Program Efficiency Calculations (time complexity, space complexity, Big-O Notation)
+-List-based Collections (arrays, linked lists, stacks, queues)
+-Sorting & Searching Algorithms (binary search, recursion, bubble sort, quick sort, merge sort)
+-Hashing (sets, maps/dictionaries, hashing algorithms)
+-Trees (binary search trees, heaps, self-balancing trees)
+-Graphs (representations, depth-first search, breadth-first search)
+-Special Algorithms (shortest path problem, knapsack problem, traveling salesman problem)
