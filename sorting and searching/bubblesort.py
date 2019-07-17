@@ -1,8 +1,8 @@
 def bubble_sort(input_array):
     '''Sort input_array using the brute force method of bubble sort
 
-    Time Complexity (worst-case): O(n^2) - May need to iterate through all n
-    elements of the array up to n times
+    Time Complexity (worst-case): O(n^2) - May need to iterate through up to n-1
+    elements of the array up to n-1 times
 
     Space Complexity: O(1) - Only making modifications inside of input_array
     '''
