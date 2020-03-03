@@ -8,4 +8,4 @@ Topics covered:
 
 -Analysis: time complexity and space complexity modeled using big-o notation
 
-Link to course used for Python implementations: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+For more information on Python implementations: https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
