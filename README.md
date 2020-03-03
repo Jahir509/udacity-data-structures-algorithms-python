@@ -13,7 +13,7 @@ Topics covered:
 
 -Hashing (sets, maps/dictionaries, hashing algorithms)
 
--Trees (binart trees, binary search trees, binary heaps, AVL trees, red-black trees)
+-Trees (binary trees, binary search trees, binary heaps, AVL trees, red-black trees)
 
 -Graphs (representations, depth-first search, breadth-first search)
 
